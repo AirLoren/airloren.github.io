@@ -1,4 +1,4 @@
-**Hébergement Cloud vs On premises : quelle est la meilleure option pour l’environnement?**
+## **Hébergement Cloud vs On premises : quelle est la meilleure option pour l’environnement?**
 
 On me demande souvent si, d'un point de vue environnemental, l'hébergement dans le Cloud est préférable à un hébergement "on premises". Vous devez vous en douter, la réponse n'est pas si simple à donner car cela dépend énormément du contexte.
 
@@ -43,7 +43,7 @@ Malgré les promesses “légèrement” trompeuses des CSP qui communiquent sur
 
     La gestion de la haute disponibilité interne à un seul site (pour gérer les cas de panne simple) est, elle aussi, optimisée dans le cloud par rapport aux infrastructures “on premises” car les volumétries à gérer sont beaucoup plus faibles “on premises” et cela nécessite un pourcentage d'équipements dédiés à la haute disponibilité beaucoup plus important. Pour illustrer mon propos, sur la plupart des infrastructures “on premises”, les équipements réseaux et sécurité sont généralement doublés (au moins sur le site principal mais aussi très souvent sur le site de secours) car la volumétrie de trafic ne requiert pas de gérer la répartition de charge sur plusieurs équipements. On a donc un équipement servant à gérer les cas de panne simple pour un équipement réellement utile. Cet équipement doit aussi être surdimensionné pour gérer la scalabilité verticale alors que les CSP répartissent ces services sur beaucoup plus d’équipements pour avoir un ratio _Nombre d’équipements utiles / Nombre total d’équipements_ beaucoup plus élevé. ![Exemple de gestion de la redondance sur une infrastructure “on premises”](./cloud%20vs%20onprem%201.png)
     Exemple de gestion de la redondance sur une infrastructure “on premises”
-    
+
     ![Exemple de gestion de la redondance sur une infrastructure Cloud](./cloud%20vs%20onprem%202.png)Exemple de gestion de la redondance sur une infrastructure Cloud
 
 
