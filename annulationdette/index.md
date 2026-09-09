@@ -18,7 +18,7 @@
 >
 > **En un arbitrage :** on échangerait un gain budgétaire modéré, différé, mais chiffrable, contre un risque de hausse des taux sur toutes les émissions futures dont ni l'occurrence ni l'intensité ne sont estimables.
 
-**Comment lire la suite.** Les trois sections qui suivent expliquent le fonctionnement de la dette publique et l'origine de ces 600 milliards. Si ces mécanismes vous sont familiers, vous pouvez passer directement à **« Ce qui est proposé »**, puis suivre les sections « Ce que ça rapporterait », « Ce que ça ne fait pas disparaître » et « Le vrai risque » : elles portent l'essentiel du raisonnement. Chaque section se termine par un **À retenir** qui permet de la parcourir en diagonale.
+**Comment lire la suite.** Les trois sections qui suivent expliquent le fonctionnement de la dette publique et l'origine de ces 600 milliards. Si ces mécanismes vous sont familiers, vous pouvez passer directement à **[Ce qui est proposé](#propose)**. Chaque section se termine par un **À retenir** qui permet de la parcourir en diagonale.
 
 ---
 
@@ -95,6 +95,8 @@ Point important : ce portefeuille **n'est plus alimenté et s'amortit tout seul*
 > **À retenir.** L'assiette de la mesure rétrécit chaque année qui passe. La fenêtre se referme d'elle-même.
 
 ---
+
+<a id="propose"></a>
 
 # Partie II — Ce qui est proposé
 
