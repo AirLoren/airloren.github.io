@@ -318,11 +318,20 @@ Chaque camp remplace ainsi une inconnue par une certitude, dans le sens qui l'ar
 ### Pourquoi ce débat occupe tant de place
 
 Certainement pas pour ses enjeux budgétaires. Le sujet doit son exposition à ce qu'il sert également bien les deux camps.
-
+ 
 À ceux qui la portent, l'annulation permet de démontrer une volonté d'affronter l'orthodoxie financière : une mesure qui se comprend en une phrase, qui désigne un adversaire, et qui promet un gain sans exiger de sacrifice. À leurs opposants, elle offre exactement l'inverse : une preuve commode d'irresponsabilité, un exemple à brandir pour disqualifier un programme entier.
-
+ 
 Le sujet vaut donc moins par ce qu'il permettrait de faire que par ce qu'il permet de dire. C'est ce qui explique le fait le plus frappant de cette controverse : **aucun des deux camps ne cite jamais les montants en jeu.** Ils ne leur seraient d'aucune utilité — ni les 9 milliards, trop peu pour tenir une promesse, ni l'incertitude du risque, trop nuancée pour tenir une accusation.
-
+ 
 Cette note ne conclut pas pour autant qu'il faudrait renoncer définitivement à l'annulation : elle deviendrait défendable dans un pays à l'équilibre, capable d'absorber une hausse de taux sans devoir retourner emprunter au prix du moment. Mais ce n'est pas elle qui produira cet équilibre.
+ 
+**Ce qui engage l'avenir de la France, ce n'est pas le sort de ces 600 milliards.** C'est que l'État dépense 134,6 milliards de plus qu'il ne perçoit cette année, et devra les emprunter à nouveau l'année prochaine.
+ 
+Encore le montant n'est-il que la moitié de la question : reste à savoir **à quoi sert ce déficit**. Un endettement qui investit construit la capacité de rembourser ; un endettement qui couvre des dépenses courantes la consomme. C'est le seul endroit où l'argument des partisans sur l'usage des fonds trouve sa pertinence — appliqué aux 134,6 milliards empruntés chaque année, non aux 9 milliards d'une annulation hypothétique.
+ 
+Et le critère ne se réduit pas au rendement financier immédiat. Éducation, recherche, santé, infrastructures produisent des retours réels mais différés. **La transition écologique en est le cas le plus net** : effort immédiat, retour étalé sur des décennies en dégâts évités, facture énergétique allégée et positions industrielles prises plutôt que perdues. Rien de cela n'apparaît dans un calcul à cinq ans, ce qui ne le rend pas moins déterminant.
+ 
+Reste que le critère doit rester un critère. Si tout se qualifie d'investissement, plus rien ne se distingue, et l'argument devient un blanc-seing. La question utile est de savoir si la dépense **laisse derrière elle une capacité qui lui survit** — un réseau, une compétence, un appareil productif — ou si elle se contente d'entretenir la consommation présente.
+ 
+Combien empruntons-nous, et pour quoi faire. C'est sur ces deux questions que se joue l'avenir du pays — pas sur une annulation qui, dans le meilleur des cas, couvrirait 7 % du déficit dans dix ans.
 
-**Ce qui engage l'avenir de la France, ce n'est pas le sort de ces 600 milliards.** C'est que l'État dépense 134,6 milliards de plus qu'il ne perçoit cette année, et devra les emprunter à nouveau l'année prochaine. Un citoyen qui veut juger utilement de la situation du pays ferait mieux de regarder ce chiffre que de choisir un camp dans une querelle qui, quelle qu'en soit l'issue, n'en déplacera qu'une petite fraction.
