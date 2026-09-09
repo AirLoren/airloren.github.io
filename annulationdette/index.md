@@ -108,6 +108,22 @@ Le mouvement s'est fortement accéléré pendant la pandémie, au point que l'Eu
 
 Point important : ce portefeuille **n'est plus alimenté et s'amortit tout seul**. Les 600 milliards d'aujourd'hui n'en seront plus que 400 ou 450 dans quelques années.
 
+### Ce que la banque centrale a créé en face : les réserves
+ 
+Pour acheter ces titres, la Banque de France n'a pas puisé dans une caisse : **elle a créé la monnaie**. Concrètement, elle a crédité le compte que la banque du vendeur détient chez elle. Cette somme s'appelle une **réserve**, et elle figure désormais à son passif, en face des titres inscrits à l'actif.
+ 
+Ces réserves ne peuvent pas quitter le système bancaire. Elles circulent d'une banque à l'autre au gré des paiements, mais leur montant total est fixé par le bilan de la banque centrale : **aucune banque ne peut collectivement s'en débarrasser.** Les banques les détiennent parce que le QE les leur a mises entre les mains, pas parce qu'elles les ont demandées.
+ 
+### Pourquoi la Banque de France doit les rémunérer
+ 
+C'est le point le plus contre-intuitif, et il ne relève pas d'une faveur faite aux banques : **le taux versé sur les réserves est l'instrument principal de la politique monétaire.**
+ 
+Avant 2015, les réserves étaient rares, et la BCE pilotait les taux courts en jouant sur leur quantité. Le QE a rendu ce levier inopérant : les réserves sont désormais surabondantes. La BCE ne peut plus agir par la quantité, elle agit donc par le prix — en fixant ce qu'elle paie sur ces réserves, le **taux de dépôt**.
+ 
+Ce taux fait office de plancher. Aucune banque n'accepte de prêter à une autre en dessous de ce qu'elle obtient sans risque auprès de la banque centrale. Si la rémunération cessait, les taux courts s'effondreraient vers zéro, les banques chercheraient à se défaire de réserves devenues stériles en prêtant davantage — et la BCE perdrait le contrôle des conditions monétaires, donc sa capacité à lutter contre l'inflation.
+ 
+D'où le mécanisme qui explique les pertes des banques centrales : quand la BCE a relevé ses taux pour casser l'inflation de 2022, elle a mécaniquement augmenté ce que chaque banque centrale nationale verse aux banques, sans rien changer au rendement des titres acquis des années plus tôt à taux bas.
+
 > **À retenir.** Le portefeuille n'est plus alimenté : il s'amortit tout seul. L'assiette de la mesure rétrécit donc chaque année, sans qu'aucune décision ne soit prise.
 
 ---
