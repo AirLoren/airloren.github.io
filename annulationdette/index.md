@@ -1,6 +1,5 @@
 # Annuler la dette détenue par la BCE : de quoi parle-t-on vraiment ?
 
-*Une note pour comprendre ce qui est proposé, comment ça marcherait, ce que ça rapporterait et ce que ça coûterait.*
 
 ---
 
@@ -18,8 +17,6 @@
 >
 > **En un arbitrage :** on échangerait un gain budgétaire modéré, différé, mais chiffrable, contre un risque de hausse des taux sur toutes les émissions futures dont ni l'occurrence ni l'intensité ne sont estimables.
 
-**Comment lire la suite.** Les trois sections qui suivent expliquent le fonctionnement de la dette publique et l'origine de ces 600 milliards. Si ces mécanismes vous sont familiers, vous pouvez passer directement à **[Ce qui est proposé](#propose)**. Chaque section se termine par un **À retenir** qui permet de la parcourir en diagonale.
-
 ---
 
 ## Le point de départ : un malentendu de vocabulaire
@@ -30,11 +27,13 @@ La mesure débattue porte sur une part précise et limitée : les titres de dett
 
 Comprendre pourquoi c'est cette part-là, et seulement celle-là, est la clé de tout le débat.
 
+**Comment lire la suite.** Les trois sections qui suivent expliquent le fonctionnement de la dette publique et l'origine de ces 600 milliards. Si ces mécanismes vous sont familiers, vous pouvez passer directement à **[Ce qui est proposé](#propose)**. Chaque section se termine par un **À retenir** qui permet de la parcourir en diagonale.
+
 ---
 
 # Partie I — Le circuit de la dette
 
-*Section technique. Si le fonctionnement de la dette publique et du quantitative easing vous est familier, passez à la Partie II.*
+*Section technique. Si le fonctionnement de la dette publique et du quantitative easing vous est familier, passez à la **[Partie II](#propose)**.*
 
 ## Comment fonctionne réellement la dette d'un État
 
